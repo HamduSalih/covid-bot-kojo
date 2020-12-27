@@ -4,7 +4,7 @@ const config = {
     botName: 'Kojo',
     initialMessages: [
         createChatBotMessage(`Hi, I'm Kojo. Your Covid19 chatbot`),
-        createChatBotMessage(`Won't you say Hello?`, {
+        createChatBotMessage(`Won't you say Hi?`, {
             delay: 1000
         })
     ],
